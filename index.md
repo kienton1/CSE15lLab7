@@ -1,8 +1,14 @@
+**Step 4**
 ![Image](2.png)
+**Step 5**
 ![Image](1.png)
+**Step 6**
 ![Image](3.png)
+**Step 7**
 ![Image](4.png)
+**Step 8**
 ![Image](5.png)
+**Step 9**
 ![Image](6.png)
 **Step 4**
 <ssh ktton@ieng6.ucsd.edu> <enter> allows for me to get into the ieng6 machine.

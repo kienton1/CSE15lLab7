@@ -11,11 +11,11 @@
 **Step 9**
 ![Image](6.png)
 **Step 4**
-<ssh ktton@ieng6.ucsd.edu> <enter> allows for me to get into the ieng6 machine.
+`<ssh ktton@ieng6.ucsd.edu>` `<enter>` allows for me to get into the ieng6 machine.
 **Step 5**
-<pwd> <cd> <rm -r lab7/> <enter> <y> <enter> <y> <enter> This allows for me to delete the git clone that was names lab7 before adding the new clone. <git clone git@github.com:kienton1/lab7.git><enter> then allows for me to clone the lab7 repository.
+`<pwd>` `<cd>` `<rm -r lab7/>` `<enter>` `<y>` `<enter>` `<y>` `<enter>` This allows for me to delete the git clone that was names lab7 before adding the new clone. `<git clone >` `<Ctrl-V>` `<enter>` then allows for me to clone the lab7 repository.
 **Step 6**
-<cd lab7/><enter> Gets me into the lab7 directory <chmod +x test.sh><enter> allows for me to make the sh file into an executable then <./test.sh><enter> allows for me to run the sh test.
+`<cd lab7/>` <enter> Gets me into the lab7 directory <chmod +x test.sh><enter> allows for me to make the sh file into an executable then <./test.sh><enter> allows for me to run the sh test.
 **Step 7**
 <vim ListExamples.java><enter> allows for me to open up the vim editor on the ListExamples.java file. <up><up><up><right><right><right><right><right><right><right><right><right><r><2> This lets me change the error in the file by replacing a 1 with a 2.
 **Step 8**
